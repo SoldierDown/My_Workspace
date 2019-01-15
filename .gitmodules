@@ -1,0 +1,3 @@
+[submodule "2D_Fluid/externals/imgui"]
+	path = 2D_Fluid/externals/imgui
+	url = https://github.com/ocornut/imgui.git
